@@ -29,6 +29,7 @@ Histogram and KDE Graph #2
   Horizontal X-axis: Interest Rate (% per Annum).
 
   Vertical Y-axis: Frequency / Density
+  
     *How many times did this rate show up 
     *The taller the bars, the more frequently that specific interest rate occurred in the dataset.
     *Because the tallest "hump" is between 0 and 2, it tells you that a 1% interest rate is much more common than a 9% interest rate.
