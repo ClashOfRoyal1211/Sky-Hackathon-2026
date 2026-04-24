@@ -6,6 +6,7 @@ All of the code was generated using Gemini and Github Copilot Chat. This was a p
 Note: The data from the .csv and .php files were retrieved from the Hong Kong Government's Website, Accessed: 17 April, 2026. https://data.gov.hk/en-data/dataset/hk-censtatd-tablechart-340-45022.
 
 Explanation on what each file of program does:
+
   "json_parser" : 
     CPP file that converts the data from "get.php.json" to a .csv file, specifically "hkd_rates.csv" by filtering out bits of data like the "period" and allocating it to a coloumn on "hkd_rates.csv". 
 
